@@ -267,13 +267,13 @@ left-column {
   }
   
   @media screen and (max-width: 980px) {
-    #container: {
+    #container {
       width: 100%;
     }
-      #left-column: {
+      #left-column {
         width: 20%;
       }
-      #right-column: {
+      #right-column {
         width: 80%;
       }  
   }
@@ -298,13 +298,13 @@ left-column {
         text-align: center;
         }
 
-          #left-column: {
+          #left-column {
             width: 100%;
           }
-          #right-column: {
+          #right-column {
             width: 100%;
           }  
           
         }
-
-
+      }
+      
