@@ -227,7 +227,13 @@ padding-left: 30px;
     background: #fff;
     border: 1px solid #ddd;
   }
-  
+
+  .img {
+    max-width: 350px;
+    max-height: 350px;
+    /* width: 80%; */
+  }
+
   /* contact page */
   
   #contact-form ul {
@@ -283,11 +289,9 @@ padding-left: 30px;
   @media screen and (max-width: 768px) {
     body {
       color: red;
+    }
   }
 
-  img {
-    width: 80%;
-  }
 
   @media screen and (max-width: 640px) {
         body {
