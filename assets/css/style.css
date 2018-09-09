@@ -216,11 +216,11 @@ body {
       }  
   }
 
-  @media screen and (max-width: 768px) {
+  /* @media screen and (max-width: 768px) {
     body {
       color: red;
     }
-  }
+  } */
 
 
   @media screen and (max-width: 640px) {
